@@ -52,3 +52,5 @@ To test the application without creating a profile, you can use the following cr
 
 - Email : hansy@mail.com
 - Password: hansy
+
+Thanks to [@PrettyPrinted](https://github.com/prettyprinted) for his tutorial on authentification with Flask.
