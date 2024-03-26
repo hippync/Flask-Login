@@ -27,7 +27,7 @@ To set up the project on your local machine, follow these steps:
 
    ```bash
    # For macOS and Linux
-   expoer FLASK_APP=project
+   export FLASK_APP=project
 
    # For Windows CMD
    set FLASK_APP=project
@@ -42,6 +42,13 @@ To set up the project on your local machine, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-4. **Run the Flask Application**:
+4. **Run the Flask Application:**
 
    Last but not least, you will start the server by executing `flask run`. You can now access the application through a web browser at `http://127.0.0.1:5000/`.
+
+## Test
+
+To test the application without creating a profile, you can use the following credentials:
+
+- Email : hansy@mail.com
+- Password: hansy
