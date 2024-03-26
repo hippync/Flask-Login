@@ -35,3 +35,13 @@ To set up the project on your local machine, follow these steps:
    #For Windows PowerShell
    $env:FLASK_APP="project"
 
+3. **Install dependencies:**
+
+   After, we will need to install all the required packages using `pip`:
+
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Flask Application**:
+
+   Last but not least, you will start the server by executing `flask run`. You can now access the application through a web browser at `http://127.0.0.1:5000/`.
